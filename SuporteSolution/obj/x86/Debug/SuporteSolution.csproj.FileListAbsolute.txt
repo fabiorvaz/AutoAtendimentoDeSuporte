@@ -1,0 +1,3 @@
+C:\Programação\Desktop\VsDesenv\App\SuporteSolution\SuporteSolution\bin\x86\Debug\SuporteSolution.exe.config
+C:\Programação\Desktop\VsDesenv\App\SuporteSolution\SuporteSolution\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Programação\Desktop\VsDesenv\App\SuporteSolution\SuporteSolution\obj\x86\Debug\SuporteSolution.csproj.ResolveComReference.cache

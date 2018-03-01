@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SuporteSolution.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ListaDePacotesParaInstalarNoWindowsXp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7zip.install --ignorechecksum;notepadplusplus --ignorechecksum;vlc --ignorechecksum;putty.install --ignorechecksum;thunderbird --ignorechecksum;libreoffice --ignorechecksum;hwinfo --ignorechecksum;googlechrome --version 49.0.2623.112 --ignorechecksum;firefox --version 52.0.2 --ignorechecksum;skype --version 7.36.0.101 --ignorechecksum;dotnet4.0 --ignorechecksum;tightvnc --version 2.7.1 --ignorechecksum</Value>
+    </Setting>
+    <Setting Name="ListaDePacotesParaInstalarNoWindows10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">googlechrome;firefox;7zip.install;notepadplusplus;vlc;skype;dotnet4.5;putty.install;thunderbird;jre8;foxitreader;tightvnc;ie11;libreoffice;hwinfo</Value>
+    </Setting>
+    <Setting Name="ListaDePacotesParaInstalarNoWindows7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">googlechrome;firefox;7zip.install;notepadplusplus;vlc;skype;dotnet4.5;putty.install;thunderbird;jre8;foxitreader;tightvnc;ie11;libreoffice;hwinfo</Value>
+    </Setting>
+    <Setting Name="ListaDePacotesParaInstalarNoWindows8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">googlechrome;firefox;7zip.install;notepadplusplus;vlc;skype;dotnet4.5;putty.install;thunderbird;jre8;foxitreader;tightvnc;ie11;libreoffice;hwinfo</Value>
+    </Setting>
+    <Setting Name="ListaDePacotesParaInstalarNoWindowsVista" Type="System.String" Scope="User">
+      <Value Profile="(Default)">googlechrome;firefox;7zip.install;notepadplusplus;vlc;skype;dotnet4.5;putty.install;thunderbird;jre8;foxitreader;tightvnc;ie11;libreoffice;hwinfo</Value>
+    </Setting>
+    <Setting Name="ArquivoDeContinuidade" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\temp\teste.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
